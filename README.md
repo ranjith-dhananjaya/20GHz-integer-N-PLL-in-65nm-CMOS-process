@@ -1,1 +1,1 @@
-# 20GHz-integer-N-PLL-in-65nm-CMOS-process
+Design of a frequency synthesizer to generate the 20 GHz output signal from 100 MHz input using 𝑉𝐷𝐷 of 1.2V in Cadence. Achieved DC power consumption of 18mW, phase noise of –96 dBc/Hz at offset frequency of 1 MHz, output power of 3dBm. The PLL was designed to have a tuning range of 18-23 GHz & locking was demonstrated through simulation
